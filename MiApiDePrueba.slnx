@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/MiApiDePrueba/MiApiDePrueba.csproj" />
+  </Folder>
+</Solution>
