@@ -22,4 +22,10 @@ public class WeatherForecastController : ControllerBase
         })
         .ToArray();
     }
+
+    [HttpGet("prueba")]
+    public IActionResult GetPrueba()
+    {
+        return Ok("Hola desde Azure!");
+    }
 }
